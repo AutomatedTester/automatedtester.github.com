@@ -1,8 +1,22 @@
 body {
-  padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  font-family:"Trebuchet MS",Verdana,serif;
+  background:#cacaca url(images/background.png) repeat-x;
+}
+
+#container {
+  margin:0 auto;width:850px;
+}
+
+#top_container {
+  height:30px;
+  background: url("images/background_top.gif") repeat scroll 0% 0% rgb(255, 255, 255);
+}
+
+#main_container {
+  margin: 0pt auto;
+  background: url("images/background_content.gif") repeat-y scroll 0% 0% rgb(255, 255, 255)
 }
 
 a {
-  color: #00B7FF;
+  color: rgb(255, 120, 0);
 }
