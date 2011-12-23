@@ -14,7 +14,8 @@ body {
 
 #main_container {
   margin: 0pt auto;
-  background: url("images/background_content.gif") repeat-y scroll 0% 0% rgb(255, 255, 255)
+  background: url("images/background_content.gif") repeat-y scroll 0% 0% rgb(255, 255, 255);
+  height: 650px;
 }
 
 a {
